@@ -4,7 +4,7 @@ With this mod, you will be able to play the poemgame as many times as you want a
 
 ### Installation :
 
-* Download the latest version in the [releases](https://www.githubb.com/Modded-DDLC/Infinite-Poems/releases) page
+* Download the latest version in the [releases](https://www.github.com/Modded-DDLC/Infinite-Poems/releases) page
 * Download DDLC from the [official website](https://ddlc.moe)
 * Extract the mod in the DDLC directory
 
