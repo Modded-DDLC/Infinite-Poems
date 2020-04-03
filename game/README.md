@@ -10,3 +10,5 @@ With this mod, you will be able to play the poemgame as many times as you want a
 
 And done !
 You can now play the poem game to know the characters from DDLC better than anyone
+
+# Mod created using the DDLC Mod template
